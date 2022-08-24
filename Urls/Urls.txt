@@ -1,0 +1,5 @@
+http://localhost:8080/examen
+http://localhost:8080/estudiante
+http://localhost:8080/asignacion
+http://localhost:8080/respuesta
+http://localhost:8080/asignacion/query?idEstudiante=1&idExamen=1
